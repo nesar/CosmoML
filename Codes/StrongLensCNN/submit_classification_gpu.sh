@@ -1,6 +1,8 @@
 #!/bin/sh
 #SBATCH -p cp100
 
+# ONLY for batch submissions. Otherwise use the interactive session from salloc_classification_gpu.sh
+
 echo [$SECONDS] setting up environment
 
 export PATH="/cosmo/software/anaconda3/bin:$PATH"
