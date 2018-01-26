@@ -7,3 +7,5 @@
 
 AllTrainTestSets/Cl_data/*
 AllTrainTestSets/JPG/*
+
+Codes/StrongLensCNN/slurm-*
