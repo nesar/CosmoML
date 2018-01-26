@@ -3,6 +3,7 @@
 *.out
 *.npy
 *.pdf
+*.pyc
 
 AllTrainTestSets/Cl_data/*
 AllTrainTestSets/JPG/*
