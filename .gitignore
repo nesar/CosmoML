@@ -1,0 +1,8 @@
+*.log
+*.hdf5
+*.out
+*.npy
+*.pdf
+
+AllTrainTestSets/Cl_data/*
+AllTrainTestSets/JPG/*
