@@ -2,5 +2,5 @@
 
 Automated identification of galaxy-galaxy gravitational lensing implemented on Keras. The binary classification module is trainable on lensed and unlensed images (from simulations)
 
-Run: python train.py
+Run: _python train.py_
 
