@@ -1,6 +1,6 @@
 ### Input files
 
-Directories (Cl_data/ and JPG/) from Phoenix must be downloaded here.
+Directories (__Cl_data/__ and __JPG/__) from Phoenix must be downloaded here.
 
 
 
